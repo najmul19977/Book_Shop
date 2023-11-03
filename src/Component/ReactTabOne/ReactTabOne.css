@@ -1,0 +1,6 @@
+.btns{
+    display: none ;
+}
+.cards:hover + .btns{
+    display: block ;
+}
